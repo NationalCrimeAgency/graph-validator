@@ -7,11 +7,11 @@
   <parent>
     <groupId>uk.gov.nca.graph</groupId>
     <artifactId>parent</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
   </parent>
 
   <artifactId>validator</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>Graph Validator</name>
   <description>Validate a graph against Schema.org</description>
   <url>https://github.com/NationalCrimeAgency/graph-validator</url>
